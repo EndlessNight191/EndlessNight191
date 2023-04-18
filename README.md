@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EndlessNight191)](https://github.com/madushadhanushka/github-readme)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EndlessNight191&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
